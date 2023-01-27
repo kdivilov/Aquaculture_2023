@@ -1,5 +1,5 @@
 # Marker-assisted selection in a Pacific oyster population for an antiviral QTL conferring increased survival to OsHV-1 mortality events in Tomales Bay
-This repository contains the data and code used in an upcoming paper in the journal Aquaculture.
+This repository contains the data and code used in a [paper](https://doi.org/10.1016/j.aquaculture.2023.739291) in the journal Aquaculture.
 
 Repository overview:
 * SNP_pipeline.sh - Code to call and impute SNPs from genotyping-by-sequencing (GBS) data
